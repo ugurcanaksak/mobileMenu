@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uğurcan\\mobileMenu\\Assembly-CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Uğurcan\\Desktop\\gitgit\\mobileMenu\\mobileMenu\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "C:\\Users\\Uğurcan\\mobileMenu\\Assembly-CSharp.csproj",
+      "projectPath": "C:\\Users\\Uğurcan\\Desktop\\gitgit\\mobileMenu\\mobileMenu\\Assembly-CSharp.csproj",
       "packagesPath": "C:\\Users\\Uğurcan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uğurcan\\mobileMenu\\obj\\",
+      "outputPath": "C:\\Users\\Uğurcan\\Desktop\\gitgit\\mobileMenu\\mobileMenu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uğurcan\\AppData\\Roaming\\NuGet\\NuGet.Config"
